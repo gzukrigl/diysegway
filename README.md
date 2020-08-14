@@ -7,3 +7,10 @@ We want to design a (rather) low cost self built segway. Therefore we assume to 
 - weight-meassuring cells for controlling left and right turns while driving
 
 This project is a personal science project and there is no warrenty for using any of the parts in this repository.
+
+
+## Bill of Materials
+
+| Part | Vendor | Function | Pieces | Price |
+|:------|--------|----------|--------|-------:|
+| Sabertooth Dual 60A 6V - 30V Motor Driver | Dimension Engineering | Motor Driver | 1 | 153,70 € |
