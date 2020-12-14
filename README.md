@@ -14,3 +14,5 @@ This project is a personal science project and there is no warrenty for using an
 | Part | Vendor | Function | Pieces | Price |
 |:------|--------|----------|--------|-------:|
 | Sabertooth Dual 60A 6V - 30V Motor Driver | Dimension Engineering | Motor Driver | 1 | 153,70 € |
+| Motor, 500W DC 24V Bürstenmotor mit Halterung für DIY Elektroroller E Bike | Motor | 2 | 118,79 € |
+
